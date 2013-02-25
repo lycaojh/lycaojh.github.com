@@ -5,4 +5,4 @@ description: "this is my first post"
 category: test
 tags: [clojure]
 ---
-{% include JB/setup %}
+This is my first post, have a test.
